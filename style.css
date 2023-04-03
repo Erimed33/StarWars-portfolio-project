@@ -4,10 +4,7 @@
   grid-auto-rows: 100px;
   grid-gap: 10px;
 }
-.container {
-display: grid;
-grid-template-columns: repeat(3, 1);
-}
+
 .child {
   border-radius: 20px;
   padding: 15px;
